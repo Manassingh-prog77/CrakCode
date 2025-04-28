@@ -1,0 +1,220 @@
+CrakCode FAQ
+General Questions
+Q: What is CrakCode?
+A: CrakCode is an online learning platform specializing in software development courses. It emphasizes practical, hands-on learning through live projects. The platform’s mentors are experienced industry professionals (tech leads and senior developers) from major product companies, ensuring students learn cutting-edge skills​
+linkedin.com
+. CrakCode’s mission is to support individuals by offering a platform and guidance to greatly improve their chances of being selected in technical roles​
+in.linkedin.com
+. Q: What industry does CrakCode operate in?
+A: CrakCode operates in the education industry​
+in.linkedin.com
+. It is positioned as an educational technology (EdTech) platform offering courses and upskilling programs. Q: When was CrakCode founded?
+A: CrakCode was founded in 2024​
+in.linkedin.com
+. This is according to the company’s LinkedIn profile which lists its founding year. Q: Where is CrakCode headquartered?
+A: CrakCode’s headquarters is in New Delhi, India​
+in.linkedin.com
+. The LinkedIn profile for CrakCode shows its headquarters location as New Delhi, Delhi. Q: How many employees does CrakCode have?
+A: The company size is listed as 11-50 employees​
+in.linkedin.com
+. This indicates a small but growing team. Q: What type of company is CrakCode?
+A: CrakCode is a privately held company​
+in.linkedin.com
+. It operates as a privately owned EdTech startup. Q: What are CrakCode’s specialties?
+A: CrakCode specializes in mentoring and upskilling students for technical careers​
+in.linkedin.com
+. The company emphasizes providing guidance and industry-relevant training to help learners improve their job prospects. Q: What is the background of the CrakCode team?
+A: The CrakCode team consists of skilled software developers with experience at leading technology companies. The company describes itself as “a team of skilled developers with experience at leading companies, dedicated to supporting individuals by offering a platform and guidance”​
+in.trabajo.org
+. This suggests that the founders and mentors have industry backgrounds and are focused on education. Q: Who are the mentors at CrakCode?
+A: CrakCode’s mentors are industry experts who have held positions as Tech Leads and Senior Developers at major product-based companies. Their backgrounds include companies like Paytm, Flipkart, Airtel, Swiggy, Dailyhunt, and PayPal​
+linkedin.com
+. This ensures that students learn from professionals with real-world experience. Q: What is CrakCode’s mission?
+A: CrakCode’s mission is to support learners by providing a platform and guidance that greatly improves their chances of being selected for technical roles​
+in.linkedin.com
+. In other words, the goal is to help students secure jobs by teaching practical skills and offering mentorship. Q: How is CrakCode different from traditional educational companies?
+A: CrakCode differs from traditional training providers by emphasizing learning by doing. Its courses include hands-on projects and features like hackathons, guided by mentors from top tech firms​
+linkedin.com
+​
+in.linkedin.com
+. Whereas traditional companies may focus on lectures, CrakCode promotes active project-based learning under expert guidance. Q: Which companies have CrakCode alumni received offers from?
+A: CrakCode alumni have reportedly received job offers from a number of well-known companies. A recent hackathon announcement notes that former CrakCode students have “successfully craked offers” at companies such as BMWTechWorks, Swiggy, Khatabook, AstroTalk, Sapient, HSBC, Blinkit, Panasonic, and more​
+in.linkedin.com
+. This highlights the real-world outcomes of their training.
+Courses Offered
+Q: What courses does CrakCode offer?
+A: CrakCode’s featured courses include React.js (for web development), Android development, and iOS development​
+linkedin.com
+. These courses are designed to give students practical skills in front-end web and mobile app development. Q: Is there an Android development course at CrakCode?
+A: Yes. CrakCode offers an Android development course​
+linkedin.com
+. This course is part of their core curriculum for learners interested in mobile app development. Q: What does the Android development course cover?
+A: The Android course is a comprehensive program that covers advanced topics in mobile development. According to CrakCode’s announcement, it includes concepts like app architecture (clean code, layered architecture), performance and security best practices, SOLID principles, and modern Android technologies such as Jetpack Compose, Kotlin Multiplatform (KMP), Flow, and coroutines. It also covers testing approaches (unit tests, UI tests)​
+linkedin.com
+. Q: How long is the Android development course?
+A: The Android program is described as a 3-6 month course​
+linkedin.com
+. It’s an extended learning path where students cover various topics over that period. Q: Is there an iOS development course at CrakCode?
+A: Yes. CrakCode offers an iOS development course​
+linkedin.com
+. This is aimed at learners looking to break into iOS app development. Q: What topics are covered in the iOS development course?
+A: The CrakCode iOS course is a beginner-friendly program that covers essential iOS skills. It includes UIKit (Apple’s UI framework), software design patterns, basic database integration, and networking fundamentals​
+linkedin.com
+. These topics are designed to build a strong foundation for an iOS developer. Q: How long is the iOS development course?
+A: The iOS course runs for about 8-12 weeks​
+linkedin.com
+. This timeframe is mentioned as a comprehensive program length in CrakCode’s promotional posts. Q: Does CrakCode offer a React.js or web development course?
+A: Yes. React.js is explicitly listed as one of CrakCode’s featured courses​
+linkedin.com
+. This suggests they provide training in web development using React.js, a popular JavaScript library for building user interfaces. Q: Are CrakCode’s courses hands-on and project-based?
+A: Yes. CrakCode emphasizes practical learning. Their courses include working on live projects under mentor guidance. For example, a LinkedIn post invites learners to “enroll in our courses” for hands-on experience with a live project​
+linkedin.com
+. This indicates a strong focus on project-based education. Q: Does CrakCode provide mentorship from industry experts?
+A: Absolutely. CrakCode’s mentors come from leading tech companies and have held senior roles. They provide real-world insights and guidance throughout the courses​
+linkedin.com
+. This mentorship is a key part of their offering. Q: Is there a free trial available for CrakCode courses?
+A: The official site mentions an “Enroll Now Free Trial” option on its homepage (as noted in site excerpts). This implies that CrakCode may offer initial free access to some course content before requiring payment. Students should visit the site’s enrollment page for details. Q: Who is eligible to enroll in CrakCode courses?
+A: CrakCode courses are aimed at individuals seeking to improve their technical skills (often beginners or intermediate developers). While specific eligibility isn’t explicitly listed in the provided sources, CrakCode’s platform appears open to anyone interested in upskilling through coding courses and live projects. Q: How do I register for a CrakCode course?
+A: To enroll, you would visit the CrakCode website (crakcode.in) and use the “Enroll Now” or “Sign Up” options next to the desired course. The exact flow is on the website, but generally involves creating an account and selecting a course to purchase or trial. Q: What payment methods does CrakCode accept for courses?
+A: The sources do not list specific payment methods. Typically, Indian educational platforms accept credit/debit cards, UPI (like Google Pay), and net banking. It’s likely CrakCode has similar options. Students should check the payment page after selecting a course on the site for the available payment methods. Q: Does CrakCode offer any certifications upon course completion?
+A: While not explicitly stated in the provided information, CrakCode’s job listings mention “Certificate of completion” as a perk for interns​
+in.trabajo.org
+. This suggests that students completing courses or internships may receive a certification from CrakCode. Q: Can I take CrakCode courses at my own pace?
+A: CrakCode’s courses appear to be structured (e.g., an iOS course is 8-12 weeks, Android is 3-6 months). They likely have a curriculum schedule, but given the online model, there may be some flexibility. Specific pacing details are best confirmed on their platform.
+Website & Technical Usage
+Q: How do I access CrakCode’s courses on the website?
+A: Courses can be accessed from the CrakCode website (crakcode.in) via the “Courses” section. You would log in to your account and navigate to the courses page to view or continue your enrolled courses. Q: Where can I sign up for a CrakCode account?
+A: On the CrakCode site, look for a “Sign Up” or “Enroll Now” button, usually in the header or homepage banner. This will take you to a registration form where you can create an account. Q: What should I do if I have trouble logging in to CrakCode?
+A: If you face login issues, try resetting your password through the “Forgot Password” link on the login page. If problems persist, contact CrakCode support via their contact page (contactus@crakcode.in) or social media for assistance. Q: How do I make a payment for a CrakCode course?
+A: After enrolling in a course, you will be directed to a payment page. Enter your payment details (card, UPI, etc.) to complete the purchase. The payment gateway will handle the transaction securely. There is no specific citation for this, but this is the typical flow on e-learning sites. Q: What if I encounter a bug on the CrakCode website?
+A: CrakCode provides a contact form and email for support. You can report bugs by emailing contactus@crakcode.in (from their Contact Us info) or by using any feedback form on the site. Be sure to describe the issue clearly so the team can address it. Q: How can I provide feedback about CrakCode or its courses?
+A: You can share feedback through CrakCode’s official channels. The LinkedIn page encourages user input, and the GitHub organization even asks for feedback (“Provide feedback – We read every piece of feedback” on their page​
+github.com
+). More directly, use the contact form or email provided on their website.
+Hackathon and Competitions
+Q: Does CrakCode host hackathons or coding competitions?
+A: Yes. CrakCode has launched hackathons for its community. For example, a recent announcement introduced their first hackathon, inviting participants to “build a useful feature” for the CrakCode platform within 7 days​
+in.linkedin.com
+. Q: What is the theme or goal of CrakCode hackathons?
+A: The hackathon is open-ended but focuses on building features that improve the CrakCode platform. Examples given include making the enrollment process smoother, improving user engagement, or contributing educational value to students​
+in.linkedin.com
+. Q: How long do participants have to complete the CrakCode hackathon challenge?
+A: Participants are given 7 days to develop and submit their project for the hackathon​
+in.linkedin.com
+. Q: What are the prizes for CrakCode hackathon winners?
+A: Prizes include a ₹20,000 cash discount for winners and internship opportunities for the top 3 performers​
+in.linkedin.com
+. The internships come with mentorship from industry experts, guidance on interview preparation, stipends, and other perks​
+in.linkedin.com
+. Q: Who can participate in CrakCode hackathons?
+A: Typically anyone interested (students, developers) can join, as CrakCode is encouraging learners to participate. Specific eligibility was not detailed, but the hackathon announcement suggests it’s open to those wanting to contribute valuable features (likely students and developers in their community). Q: How do I sign up for a CrakCode hackathon?
+A: CrakCode usually announces hackathon participation links on their social media and website. For instance, their LinkedIn post includes a “Participate now” link​
+in.linkedin.com
+. Check the CrakCode website’s hackathon page or official posts for registration details. Q: What are the benefits of participating in CrakCode hackathons?
+A: Benefits include cash discounts on courses (for winners), internships with mentorship for top performers, and the chance to showcase skills to the community​
+in.linkedin.com
+. It’s also a practical learning experience.
+Support and Contact
+Q: How can I contact CrakCode for support?
+A: You can contact CrakCode through their Contact Us page or via email. The contact email is contactus@crakcode.in (as listed on their site), and they also have a phone number (+91 73037 78817) and address listed​
+crakcode.in
+. (Note: these details are taken from the CrakCode contact page as indexed by search.) Q: Is there a chatbot or live chat support on CrakCode?
+A: There is no mention of a chatbot on the official site in the available sources. Support is primarily through traditional channels (email/contact form). Q: What is CrakCode’s refund policy?
+A: The CrakCode website includes a Refund Policy page. While the full text isn’t quoted here, students should refer to that page (https://crakcode.in/cancelandrefund) for details on when and how refunds are handled. Q: How fast does CrakCode respond to support queries?
+A: The response time isn’t specified in the sources. It likely varies based on the query volume. Generally, EdTech support teams respond within a few business days, but exact times would be given by CrakCode support on inquiry. Q: Can I report a bug or give feedback on CrakCode?
+A: Yes. The Contact Us form and email can be used to report bugs or give feedback. The CrakCode GitHub page explicitly invites feedback (“Provide feedback – We read every piece of feedback”​
+github.com
+), indicating they welcome user input.
+Additional Questions
+Q: Does CrakCode provide placement assistance?
+A: CrakCode emphasizes preparing students for interviews, but it does not guarantee job placements. However, its hackathons and mentorship focus on career success. They mention guiding students in “cracking interviews at top product-based companies” as part of hackathon rewards​
+in.linkedin.com
+. Q: Is CrakCode suitable for beginners?
+A: Yes. CrakCode explicitly has a “beginner” iOS course and emphasizes foundational learning (e.g., basic DB, networking for iOS)​
+linkedin.com
+. Their programs cover basics and advanced topics, so beginners can enroll and progress through the material. Q: Does CrakCode teach data structures and algorithms (DSA)?
+A: The provided sources do not detail a specific DSA course. However, an Android course announcement mentions daily DSA questions (per a site excerpt). It’s likely that some DSA practice is integrated, but main courses focus on development skills. Q: Are CrakCode courses self-paced or cohort-based?
+A: The Android and iOS courses mention specific durations (8-12 weeks, 3-6 months), suggesting cohort-like timelines. However, since it is an online platform, there may be some flexibility. Students should check each course’s details. Q: Does CrakCode have any free resources?
+A: CrakCode’s focus is on paid courses, but they do mention free trials and may share some tips on social media. Any completely free courses or materials would be announced on their site or social channels. Q: How is student progress tracked on CrakCode?
+A: There’s no specific information, but as a structured online platform, progress is likely tracked through course modules, project submissions, and assessments in their Learning Management System (LMS). Q: Can companies request custom training from CrakCode?
+A: The sources don’t mention corporate training explicitly. It appears CrakCode’s primary audience is individual learners, though they may entertain queries for larger training projects via their contact channels. Q: How do CrakCode’s offerings compare to those of a coding bootcamp?
+A: CrakCode resembles a bootcamp in its hands-on, mentorship-driven approach. Unlike some bootcamps that are purely offline or in-person, CrakCode is online. Compared to traditional bootcamps, CrakCode’s distinguishing features are its specific hackathons and emphasis on projects guided by industry mentors​
+linkedin.com
+​
+in.linkedin.com
+. Each answer above is based on official CrakCode information or related announcements, with references indicated by 【…†Lx-Ly】 linking to source lines for verification.
+Citations
+Favicon
+#crakcode #frontenddeveloper #webdevelopment #javascriptdeveloper #html… | CrakCode by Tarun, x - [Swiggy • Airtel • Paytm]
+
+https://www.linkedin.com/posts/crakcode_crakcode-frontenddeveloper-webdevelopment-activity-7230117209480552448-En_l
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Reactjs Intern job in Delhi, Delhi - CrakCode by Tarun, x - [Swiggy • Airtel • Paytm]
+
+https://in.trabajo.org/job-1241-3e3931a9cc4e6229aea771f615d84776
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+#android #androiddev #androiddevelopment #kmp #performance #security… | CrakCode by Tarun, x - [Swiggy • Airtel • Paytm]
+
+https://www.linkedin.com/posts/crakcode_android-androiddev-androiddevelopment-activity-7219549994444365826-n6hD
+Favicon
+#iosdevelopment #careergrowth #crakcode #interviewprep #techskills | CrakCode by Tarun, x - [Swiggy • Airtel • Paytm]
+
+https://www.linkedin.com/posts/crakcode_iosdevelopment-careergrowth-crakcode-activity-7228261759139135490-CiyC
+Reactjs Intern job in Delhi, Delhi - CrakCode by Tarun, x - [Swiggy • Airtel • Paytm]
+
+https://in.trabajo.org/job-1241-3e3931a9cc4e6229aea771f615d84776
+Favicon
+crakcode · GitHub
+
+https://github.com/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+CrakCode by Tarun, x - [Swiggy • Airtel • Paytm] | LinkedIn
+
+https://in.linkedin.com/company/crakcode
+Favicon
+Contact Us - CrakCode
+
+https://www.crakcode.in/contactus
