@@ -1,6 +1,3 @@
-Sure! Here's a `README.md` file for your project:
-
-```markdown
 # CrakCode Chatbot
 
 A chatbot application built using **LangChain**, **HuggingFace embeddings**, and the **Gemini** language model (LLM) for intelligent, context-aware, and human-like interactions. The chatbot leverages **Retrieve and Generate (RAG)** approach, allowing it to remember context and provide relevant answers to user queries based on a FAQ document, **CrakCode.txt**.
@@ -138,11 +135,3 @@ This endpoint handles the user query and returns a response from the chatbot.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Key points in the README:
-- **Project Overview**: Describes the purpose and features of the chatbot.
-- **How It Works**: Explains the steps the chatbot takes to provide a response to user queries.
-- **Technologies Used**: Lists all technologies used in the project.
-- **Installation Instructions**: Provides setup instructions for the backend and frontend.
-- **API Endpoint**: Details the `/chat` API for communication with the chatbot.
