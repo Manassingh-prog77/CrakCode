@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import "./App.css";
+import logo from "../public/crakCodeLogoImg.svg";
 
 function App() {
   const [messages, setMessages] = useState([]);
@@ -53,17 +54,15 @@ function App() {
 
   function formatMessage(text) {
     if (!text) return "";
-  
+
     // Safely replace only properly paired **bold** parts
     const boldFormatted = text.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
-  
+
     // Optionally escape any stray single '*' to avoid confusion (optional)
     const cleaned = boldFormatted.replace(/\*(?!\*)(.*?)\*/g, "<em>$1</em>");
-  
+
     return cleaned;
   }
-  
-  
 
   return (
     <div className="app">
@@ -71,7 +70,10 @@ function App() {
         <div className="dot" />
         <div className="card">
           <div className="ray" />
-          <div className="text">CrakCode</div>
+          <div className="title-container">
+            <img src={logo} alt="CrakCode Logo" className="logo-image" />
+            <div className="text">CrakCode</div>
+          </div>
 
           <div className="chat-container">
             <div className="chat-box">
@@ -82,7 +84,9 @@ function App() {
                     m.sender === "user" ? "user-message" : "bot-message"
                   }`}
                 >
-                 <div dangerouslySetInnerHTML={{ __html: formatMessage(m.text) }} />
+                  <div
+                    dangerouslySetInnerHTML={{ __html: formatMessage(m.text) }}
+                  />
                 </div>
               ))}
 

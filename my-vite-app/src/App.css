@@ -1,4 +1,3 @@
-/* Global reset & box-sizing */
 *,
 *::before,
 *::after {
@@ -7,7 +6,6 @@
   padding: 0;
 }
 
-/* Full-screen dark background */
 .app {
   display: flex;
   align-items: center;
@@ -17,7 +15,6 @@
   font-family: sans-serif;
 }
 
-/* Outer animated container */
 .outer {
   width: 90vw;
   max-width: 600px;
@@ -30,15 +27,11 @@
   overflow: hidden;
 }
 
-/* Floating dot animation */
-
-
-/* Inner card styling with single border */
 .card {
   width: 100%;
   height: 100%;
   border-radius: 8px;
-  border: 2px solid #555;        /* simple border instead of lines */
+  border: 2px solid #555;
   background: radial-gradient(circle 280px at 0% 0%, #444, #0c0d0d);
   display: flex;
   flex-direction: column;
@@ -47,12 +40,12 @@
   color: #fff;
 }
 
-/* Ray light effect */
 .ray {
   position: absolute;
   width: 220px;
   height: 45px;
-  top: 0; left: 0;
+  top: 0;
+  left: 0;
   background: #c7c7c7;
   opacity: 0.4;
   box-shadow: 0 0 50px #fff;
@@ -62,23 +55,20 @@
   transform: rotate(40deg);
 }
 
-/* Centered silver header */
 .card .text {
-  margin: 16px 0;
   font-weight: bold;
-  font-size: 2.5rem;
-  color: silver;                  /* silver text */
-  text-align: center;             /* centered */
+  font-size: 2rem;
+  color: silver;
+  text-align: center;
+  height: 40px;
 }
 
-/* Chat area */
 .chat-container {
   flex: 1;
   display: flex;
   flex-direction: column;
 }
 
-/* Scrollable messages */
 .chat-box {
   flex: 1;
   padding: 8px;
@@ -88,7 +78,6 @@
   gap: 8px;
 }
 
-/* Message bubbles */
 .message {
   display: inline-block;
   padding: 8px 12px;
@@ -98,72 +87,86 @@
   word-break: break-word;
   max-width: 75%;
 }
+
 .user-message {
   background: #4a90e2;
   align-self: flex-end;
 }
+
 .bot-message {
   background: #333;
   align-self: flex-start;
 }
 
-/* Sleeker input area */
 .input-area {
   display: flex;
   align-items: center;
   padding: 8px;
   background: #1f1f1f;
   gap: 8px;
+  z-index: 2;
+  background-color: transparent;
+  flex-shrink: 0;
 }
+
 .chat-input {
   flex: 1;
   padding: 10px 16px;
   background: #222;
-  border: 1px solid #444;        /* subtle border */
-  border-radius: 20px;            /* pill shape */
+  border: 1px solid #444;
+  border-radius: 20px;
   color: #eee;
   font-size: 0.9rem;
   outline: none;
 }
+
 .chat-input::placeholder {
   color: #777;
 }
+
 .send-button {
   padding: 10px 20px;
-  background: silver;             /* match header */
+  background: silver;
   color: #121212;
   border: none;
   border-radius: 20px;
   cursor: pointer;
   font-size: 0.9rem;
 }
+
 .send-button:hover {
   background: #ddd;
 }
 
-/* Scrollbar styling */
 .chat-box::-webkit-scrollbar {
   width: 6px;
 }
+
 .chat-box::-webkit-scrollbar-thumb {
   background-color: rgba(255,255,255,0.2);
   border-radius: 3px;
 }
+
 .chat-box {
   scrollbar-width: thin;
   scrollbar-color: rgba(255,255,255,0.2) transparent;
 }
 
-/* Mobile tweaks */
 @media (max-width: 400px) {
-  .card .text { font-size: 2rem; }
-  .chat-input, .send-button { font-size: 0.8rem; }
-  .message { font-size: 0.8rem; }
+  .card .text {
+    font-size: 2rem;
+  }
+  .chat-input,
+  .send-button {
+    font-size: 0.8rem;
+  }
+  .message {
+    font-size: 0.8rem;
+  }
 }
 
-/* Inline loader bubble */
 .loader-message {
-  background: #555;           /* grey bubble */
+  background: #555;
   display: inline-flex;
   align-items: center;
   padding: 8px 12px;
@@ -172,11 +175,11 @@
   gap: 8px;
 }
 
-/* Three-dot loader */
 .dots {
   display: flex;
   gap: 4px;
 }
+
 .dots span {
   width: 6px;
   height: 6px;
@@ -185,107 +188,93 @@
   display: block;
   animation: dotBounce 1s infinite ease-in-out;
 }
-.dots span:nth-child(2) { animation-delay: 0.2s; }
-.dots span:nth-child(3) { animation-delay: 0.4s; }
 
-@keyframes dotBounce {
-  0%, 80%, 100% { transform: translateY(0); }
-  40%           { transform: translateY(-6px); }
+.dots span:nth-child(2) {
+  animation-delay: 0.2s;
 }
 
-/* Loader text */
+.dots span:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes dotBounce {
+  0%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-6px);
+  }
+}
+
 .loader-text {
   color: #eee;
   font-size: 0.9rem;
 }
 
-/* Ensure input area stays at bottom */
-.input-area {
-  /* existing styles… */
-  /* ensure z-index so input sits above loader if overlapping */
-  z-index: 2;
-}
-/* --- CARD LAYOUT TWEAKS --- */
 .card {
   display: flex;
   flex-direction: column;
-  align-items: stretch;        /* stretch children full width */
-  justify-content: flex-start; /* stack from top */
-  height: 100%;                /* ensure it fills outer */
-  padding: 16px;               /* some padding around */
+  align-items: stretch;
+  justify-content: flex-start;
+  height: 100%;
+  padding: 16px;
   box-sizing: border-box;
 }
 
-/* Header stays fixed at top */
 .card .text {
   margin: 0;
   padding-bottom: 12px;
-  /* rest of your silver-centered styling */
 }
 
-/* --- CHAT CONTAINER --- */
 .chat-container {
-  flex: 1;                     /* take remaining space */
+  flex: 1;
   display: flex;
   flex-direction: column;
-  overflow: hidden;            /* hide overflow outside chat-box */
+  overflow: hidden;
 }
 
-/* Scrollable messages */
 .chat-box {
-  flex: 1;                     /* grow to fill .chat-container */
-  overflow-y: auto;            /* allow vertical scroll */
-  padding-right: 8px;          /* avoid clipping scrollbar */
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 8px;
 }
 
-/* Optional: always show scrollbar for clarity */
 .chat-box::-webkit-scrollbar {
   width: 6px;
 }
+
 .chat-box::-webkit-scrollbar-thumb {
   background-color: rgba(255, 255, 255, 0.2);
   border-radius: 3px;
 }
+
 .chat-box {
   scrollbar-width: thin;
   scrollbar-color: rgba(255,255,255,0.2) transparent;
 }
 
-/* Keep input pinned at bottom */
-.input-area {
-  background-color: "transparent";
-  flex-shrink: 0;
-  /* existing styles… */
-}
-
-/* Remove the dark background behind the input area */
-.input-area {
-  background: none !important;
-}
-
-/* Make the text‐box itself transparent */
-.chat-input {
-  background: transparent !important;
-  border: 1px solid #777;    /* subtle outline so you can still see it */
-}
-
-/* Optionally lighten the placeholder text so it’s still visible */
-.chat-input::placeholder {
-  color: #aaa !important;
-}
-
-/* Sleek glassmorphic input area */
 .input-area {
   display: flex;
   align-items: center;
   gap: 8px;
+  background: none !important;
+}
 
+.chat-input {
+  background: transparent !important;
+  border: 1px solid #777;
+}
+
+.chat-input::placeholder {
+  color: #aaa !important;
+}
+
+.input-area {
   background: rgba(239, 12, 167, 0.05);
   backdrop-filter: blur(10px);
   border-radius: 30px;
 }
 
-/* Transparent input, no ugly background */
 .chat-input {
   flex: 1;
   font-size: 1rem;
@@ -299,7 +288,6 @@
   color: rgba(255,255,255,0.6);
 }
 
-/* Circular gradient send button */
 .send-button {
   width: 44px;
   height: 44px;
@@ -325,22 +313,18 @@
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
-/* Icon inside button inherits text color */
 .send-button svg {
   width: 20px;
   height: 20px;
   fill: #fff;
 }
 
-/* Container for input + button: no extra background or border */
 .input-area {
   display: flex;
   align-items: center;
   gap: 8px;
-  /* no background, no border */
 }
 
-/* Underline-only text field */
 .chat-input {
   flex: 1;
   background: transparent;
@@ -351,14 +335,15 @@
   outline: none;
   transition: border-color 0.2s;
 }
+
 .chat-input::placeholder {
   color: rgba(255,255,255,0.5);
 }
+
 .chat-input:focus {
   border-bottom-color: #4a90e2;
 }
 
-/* Floating circular send button */
 .send-button {
   width: 40px;
   height: 40px;
@@ -371,16 +356,32 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.5);
   transition: transform 0.2s, box-shadow 0.2s;
 }
+
 .send-button:hover {
   transform: scale(1.1);
   box-shadow: 0 6px 16px rgba(0,0,0,0.6);
 }
+
 .send-button:active {
   transform: scale(0.9);
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
+
 .send-button svg {
   width: 20px;
   height: 20px;
   fill: #fff;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.logo-image {
+  height: 40px;
+  width: auto;
 }
