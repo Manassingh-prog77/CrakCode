@@ -97,7 +97,7 @@ function App() {
                     <span />
                     <span />
                   </div>
-                  <span className="loader-text">Analyzing…</span>
+                  <span className="loader-text">Analyzing</span>
                 </div>
               )}
 
